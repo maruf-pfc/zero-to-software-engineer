@@ -1,0 +1,3 @@
+﻿using CsFundamentals;
+
+Basics.Run();
