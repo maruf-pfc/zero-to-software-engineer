@@ -53,3 +53,5 @@ publish/
 *.temp
 *.bak
 *.swp
+
+a.out
