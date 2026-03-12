@@ -1,0 +1,5 @@
+# Neetcode 150
+
+This repository contains solutions to the Neetcode 150 problems. Each problem is solved in C++ and includes a link to the original problem on LeetCode. The solutions are organized by problem number and are designed to help you understand the concepts and techniques needed to solve these common coding interview questions. Whether you're preparing for an interview or just looking to improve your problem-solving skills, this repository is a great resource to get started.
+
+I am following this [YouTube Video](https://youtu.be/T0u5nwSA0w0?si=RU98wXGS9CeiuXgH) to solve these problems. Each solution is implemented in C++ and includes comments to explain the logic and approach used to solve the problem. I hope this repository will be helpful for anyone looking to improve their coding skills and prepare for technical interviews.
